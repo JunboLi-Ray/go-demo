@@ -1,0 +1,4 @@
+serverHost: "localhost:8080"
+sqlAddr: "localhost:5432"
+sqlUser: "lijunbo"
+sqlDatabase: "user_relas_data"
